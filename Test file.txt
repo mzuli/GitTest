@@ -1,1 +1,3 @@
 Inserisco un po' di testo dopo il commmit (locale) iniziale.
+
+Riga aggiunta da Ignazio
